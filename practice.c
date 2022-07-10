@@ -1,6 +1,3 @@
-#include <stdio.h>
-
-int main(){
 
     int num, i,factorial;
     printf("eter anynumber:");
@@ -14,6 +11,16 @@ int main(){
     }
     
     printf("factorial value of %d is %d",num ,factorial);
+
+    
+
+
+ 
+   
+   
+   
+
     return 0;
+
 
 }
