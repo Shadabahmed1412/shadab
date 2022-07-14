@@ -17,7 +17,7 @@ int main()
     scanf("%d", &n1);
      
     sum = DigitSum(n1);
-    
+
      
     printf(" The Sum of digits of %d = %d\n\n", n1, sum);
      
